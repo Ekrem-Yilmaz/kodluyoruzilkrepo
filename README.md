@@ -17,7 +17,7 @@ cd kodluyoruzilkrepo
 code .
 ```
 ## Contributing
-Pull requstler kabul edilir. Büyük Değişiklikler için önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+Pull requestler kabul edilir. Büyük Değişiklikler için önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 ## License 
 [MİT](https://choosealicense.com/licenses/mit/)
 
